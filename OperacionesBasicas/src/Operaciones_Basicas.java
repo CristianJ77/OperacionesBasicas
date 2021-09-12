@@ -7,6 +7,8 @@ public class Operaciones_Basicas {
 
 	System.out.println("suma es igual a "+(n1+n2));
 	
+	System.out.println("resta es igual a "+(n1-n2));
+	
 	}
 }
 
