@@ -11,6 +11,8 @@ public class Operaciones_Basicas {
 	
 	System.out.println("multiplicación es igual a "+(n1*n2));
 	
+	System.out.println("división es igual a "+(n1/n2));
+	
 	}
 }
 
